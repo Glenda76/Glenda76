@@ -1,6 +1,8 @@
-###                                                Hola👋! Soy Glenda Dunne 
+###                                               
+                                                  Hola👋! Soy Glenda Dunne
+                                                
 
-                                                  Bienvenid@ a mi repositorio
+                                                  Bienvenid@ a mi repositorio 
 
 📚 Actualmente estoy estudiando la carrera de Certified Tech Developer en Digital House
 
