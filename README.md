@@ -1,5 +1,6 @@
-### Hola👋! Soy Glenda Dunne 
-Bienvenid@ a mi repositorio
+###                                                Hola👋! Soy Glenda Dunne 
+
+                                                  Bienvenid@ a mi repositorio
 
 📚 Actualmente estoy estudiando la carrera de Certified Tech Developer en Digital House
 
@@ -7,7 +8,7 @@ Algunas tecnologías y lenguajes que he estudiado:
 
 ⚛️ HTML & CSS | JavaScript | React JS 
 
-🔙 Java
+🔙 Java | Phyton
 
 💾 Mongo DB | MySQL.
 
