@@ -14,7 +14,7 @@ Algunas tecnologías y lenguajes que he estudiado:
 
 💾 Mongo DB | MySQL.
 
-🧪 Jest | React Testing Library.
+🧪 Jest | Testing Library.
 
 
 <!--
