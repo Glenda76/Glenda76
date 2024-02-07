@@ -7,6 +7,9 @@
 <img src="https://github.com/Glenda76/Glenda76/assets/72517062/a7975fcd-5be8-4194-b9aa-275e26d43805">
 <br>
 <br>
+
+
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -79,7 +82,8 @@
 <br/>
 
 
-
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glenda76&theme=algolia" alt="Glenda76"  /></p>
 <br>
 
 
@@ -111,20 +115,26 @@ Mas alla de que todos colaboramos en el proyecto, cada inegrante tenia un rol es
 </table>                                                                                 
 <br>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Glenda76"><img alt="Glenda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=glenda76&custom_title=Glenda%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
-</details>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/Glenda76">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Glenda76&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Glenda76&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:grpunne@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Glenda76"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/glenda-dunne"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+<hr/>
+
+* Credit: [Glenda Dunne](https://github.com/Glenda76)
+* Last Edited on: 07/02/2024
 
