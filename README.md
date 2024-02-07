@@ -1,11 +1,12 @@
 <img src="https://github.com/Glenda76/Glenda76/assets/72517062/dcef157c-399f-4ad1-9fdb-1bfc0b7a3521">
 
 <div align="center">
-<h2 align="center">Hola! 👋 <br> <br> I'm Glenda Dunne Front end Developer from Argentina</h2>
+<h2 align="center">Hola! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> <br> <br> I'm Glenda Dunne Front end Developer from Argentina</h2>
 </div>  
 <br>
 
 ## <h2 align="center" color="gray">🛠️ My Skills</h2><br>
+
 
 ### 👉 Programming languages
 <p align="left"> 
@@ -23,6 +24,8 @@
   </a>
 </p>
 
+
+	
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
@@ -38,6 +41,7 @@
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-blue?style=flat-square&logo=Tailwindcss"/>
   </a>
 </p>
+
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
@@ -73,7 +77,9 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  &emsp;
-    <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-gray?style=flat-square&logo=Intellij%20idea"></a></p><br/>
+    <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-gray?style=flat-square&logo=Intellij%20idea"></a></p>
+   <br/>
+
 
 
 ## 🔥 Streak Stats
@@ -86,7 +92,7 @@
 <table>
 <tr>
   
-<td width="50%">     
+ <td width="50%">
 <h3 align="center">PI Certified Tech Developer</h3>
 <div align="center">                                       
 <a href="https://github.com/DevilBatx/Proyecto_Integrador_Equipo5" target="_blank"><img src="" width="400" alt="Proyecto Inegrador CTD"></a>
