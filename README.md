@@ -1,4 +1,4 @@
-<img src="https://github.com/Glenda76/Glenda76/assets/72517062/dcef157c-399f-4ad1-9fdb-1bfc0b7a3521">
+<img src="https://github.com/Glenda76/Glenda76/assets/72517062/7365a713-0751-49d9-b31f-7f28d550c831">
 
 <div align="center">
 <h2 align="center">Hola! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> <br> <br> I'm Glenda Dunne Front end Developer from Argentina</h2>
