@@ -1,16 +1,11 @@
+<img src="https://github.com/Glenda76/Glenda76/assets/72517062/dcef157c-399f-4ad1-9fdb-1bfc0b7a3521">
 
 <div align="center">
-<h1 align="center">Hola, soy <a>Glenda Dunne</a> 👋</h1>
+<h2 align="center">Hola! 👋 <br> <br> I'm Glenda Dunne Front end Developer from Argentina</h2>
 </div>  
 <br>
 
-<img src="https://github.com/Glenda76/Glenda76/assets/72517062/a7975fcd-5be8-4194-b9aa-275e26d43805">
-<br>
-<br>
-
-
-
-## 🛠️ My Skills
+## <h2 align="center" color="gray">🛠️ My Skills</h2><br>
 
 ### 👉 Programming languages
 <p align="left"> 
@@ -78,8 +73,7 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  &emsp;
-    <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-gray?style=flat-square&logo=Intellij%20idea"></a>
-<br/>
+    <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-gray?style=flat-square&logo=Intellij%20idea"></a></p><br/>
 
 
 ## 🔥 Streak Stats
@@ -87,19 +81,19 @@
 <br>
 
 
-## Proyectos integradores 
+## Final Projects
 
 <table>
 <tr>
   
 <td width="50%">     
-<h3 align="center">Protecto integrador CTD</h3>
+<h3 align="center">PI Certified Tech Developer</h3>
 <div align="center">                                       
 <a href="https://github.com/DevilBatx/Proyecto_Integrador_Equipo5" target="_blank"><img src="" width="400" alt="Proyecto Inegrador CTD"></a>
 </div>
 <br>
-</p align="center">Este proyecto tiene como objetivo el desarrollo de un sitio web, El mismo se dividio en 4 sprints, con un conjunto de entregablles especificos y con devoluciones y orientacion para optimizarlo.
-Mas alla de que todos colaboramos en el proyecto, cada inegrante tenia un rol especifico. Yo me postule para ser el Scrum master.</p>
+<p align="center">This project aims to develop a website. It was divided into 4 sprints, with a set of specific deliverables and with feedback and guidance to optimize it.
+Beyond the fact that we all collaborated on the project, each member had a specific role. I applied to be the Scrum master.</p>
 </td> 
 
 <td width="50%">
@@ -108,7 +102,7 @@ Mas alla de que todos colaboramos en el proyecto, cada inegrante tenia un rol es
 <a href="https://github.com/grupo6-react/22804-grupo6-infopeli" target="_blank"><img src="" width="400" alt="TPI info Pelis"></a>
 </div>
 <br>
-<p align="center">TPI realizado en equipo, cada miembro del equipo se encargo de desarrollar una parte especifica del proyecto, a mi me toco desarrollar las cards.</p>
+<p align="center">TPI carried out as a team, each member of the team was in charge of developing a specific part of the project, it was my turn to develop the cards.</p>
 </td>
 
 </tr>                                                        
@@ -124,9 +118,9 @@ Mas alla de que todos colaboramos en el proyecto, cada inegrante tenia un rol es
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Glenda76&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Glenda76&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p><br>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Let's Connect 
 <p align="center">
 	<a href="mailto:grpunne@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Glenda76"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
