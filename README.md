@@ -100,11 +100,6 @@
 
 
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glenda76&theme=algolia" alt="Glenda76"/></p>
-<br>
-
-
 ## 💻 Final Projects
 
 <table>
