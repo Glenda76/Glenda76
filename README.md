@@ -3,7 +3,7 @@
 <div align="center">
 <h2 align="center">Hola! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"/> <br> <br> I'm Glenda Dunne Front end Developer from Argentina</h2>
 </div>  
-<br>
+<br/>
 
 ## <h2 align="center" color="gray">🛠️ My Skills</h2><br>
 
@@ -16,10 +16,6 @@
   &emsp;
   <a href="#" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3"/>
   </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
-   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
@@ -40,7 +36,7 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-skyblue?style=flat-square&logo=React&logoColor=white"/>
+   <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-045FB4?style=flat-square&logo=React&logoColor=white"/>
   </a>   
   &emsp;
   <a href="#" target="_blank">
@@ -52,7 +48,7 @@
   </a>
    &emsp;
   <a href="https://tailwindui.com/" target="_blank"> 
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Sping%20Boot-green?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-088A29?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
   </a>
 </p>
 
@@ -69,6 +65,12 @@
     <a href="#"><img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
  &emsp;
     <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-gray?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white"/></a>
+ &emsp;
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-8a2be2?style=flat-square&logo=mongoDB&logoColor=white"/></a>
+ &emsp;
+    <a href="#"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-blue?style=flat-square&logo=Netlify&logoColor=white"/></a>
+  &emsp;
+    <a href="#"><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-gray?style=flat-square&logo=Vercel&logoColor=white"/></a>
  </p>
   
 ### 👉Graphic Designing
@@ -76,11 +78,15 @@
   &emsp;
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
+   </a> 
+   &emsp;
+   <a href="#">
+     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+   </a>
+  &emsp;
+   <a href="#">
+     <img alt="Figma" src="https://img.shields.io/badge/Figma-gray?style=flat-square&logo=Figma&logoColor=white"/>
+   </a>
  </p>
 
  ### 👉 Software & Tools
@@ -124,7 +130,7 @@ Beyond the fact that we all collaborated on the project, each member had a speci
 
 </tr>                                                        
 </table>                                                                                 
-<br>
+<br/>
 
 
 
@@ -135,7 +141,13 @@ Beyond the fact that we all collaborated on the project, each member had a speci
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Glenda76&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Glenda76&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p><br>
+</p><br/>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Glenda76&theme=algolia" alt="Glenda76"  /></p><br/>
+
+
+
 
 ## 🙋‍♀️ Let's Connect 
 <p align="center">
