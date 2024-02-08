@@ -8,8 +8,18 @@
 ## <h2 align="center" color="gray">🛠️ My Skills</h2><br>
 
 
-### 👉 Programming languages
+### 👉 Languages
 <p align="left"> 
+  &emsp;
+  <a href="#" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/html-orange?style=flat-square&logo=HTML5&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3">
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -26,24 +36,28 @@
 
 
 	
-### 👉 Frontend Development
+### 👉 Frontend & Backend
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-skyblue?style=flat-square&logo=React&logoColor=white"/>
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  <a href="#" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8a2be2?style=flat-square&logo=Bootstrap&logoColor=white">
   </a> 
    &emsp;
   <a href="https://tailwindui.com/" target="_blank"> 
-    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-blue?style=flat-square&logo=Tailwindcss"/>
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-blue?style=flat-square&logo=Tailwindcss&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://tailwindui.com/" target="_blank"> 
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Sping%20Boot-green?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
   </a>
 </p>
 
 
-### 👉 Databases & Cloud Hosting
+### 👉 Databases - Cloud & Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -51,6 +65,10 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+ &emsp;
+    <a href="#"><img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=Kubernetes&logoColor=white"></a>
+ &emsp;
+    <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-gray?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white"></a>
  </p>
   
 ### 👉Graphic Designing
