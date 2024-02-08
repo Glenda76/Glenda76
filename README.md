@@ -98,7 +98,7 @@
 <a href="https://github.com/DevilBatx/Proyecto_Integrador_Equipo5" target="_blank"><img src="https://github.com/Glenda76/Glenda76/assets/72517062/f07e8f25-b5c0-4bcc-9c4c-fe3fe54e1680" width="350" alt="Proyecto Inegrador CTD"></a>
 </div><br>
 <p align="center">This project aims to develop a website. It was divided into 4 sprints, with a set of specific deliverables and with feedback and guidance to optimize it.
-Beyond the fact that we all collaborated on the project, each member had a specific role. I applied to be the Scrum master.</p>
+Beyond the fact that we all collaborated on the project, each member had a specific role. I applied to be a Scrum master.</p>
 </td> 
 
 <td width="50%">
