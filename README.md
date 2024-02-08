@@ -87,28 +87,26 @@
 <br>
 
 
-## Final Projects
+## 💻 Final Projects
 
 <table>
 <tr>
   
  <td width="50%">
-<h3 align="center">PI Certified Tech Developer</h3>
-<div align="center">                                       
-<a href="https://github.com/DevilBatx/Proyecto_Integrador_Equipo5" target="_blank"><img src="" width="400" alt="Proyecto Inegrador CTD"></a>
-</div>
-<br>
+<h3 align="center">PI *Certified Tech Developer* DH</h3>
+<div align="center">    
+<a href="https://github.com/DevilBatx/Proyecto_Integrador_Equipo5" target="_blank"><img src="https://github.com/Glenda76/Glenda76/assets/72517062/f07e8f25-b5c0-4bcc-9c4c-fe3fe54e1680" width="350" alt="Proyecto Inegrador CTD"></a>
+</div><br>
 <p align="center">This project aims to develop a website. It was divided into 4 sprints, with a set of specific deliverables and with feedback and guidance to optimize it.
 Beyond the fact that we all collaborated on the project, each member had a specific role. I applied to be the Scrum master.</p>
 </td> 
 
 <td width="50%">
-<h3 align="center">TPI Info Pelis *React* Codo a Codo</h3>
+<h3 align="center">TPI E-Movies *React* Codo a Codo</h3>
 <div align="center">
-<a href="https://github.com/grupo6-react/22804-grupo6-infopeli" target="_blank"><img src="" width="400" alt="TPI info Pelis"></a>
-</div>
-<br>
-<p align="center">TPI carried out as a team, each member of the team was in charge of developing a specific part of the project, it was my turn to develop the cards.</p>
+<a href="https://github.com/grupo6-react/22804-grupo6-infopeli" target="_blank"><img src="https://github.com/Glenda76/Glenda76/assets/72517062/09e7e155-ada0-4b87-9d61-1c87e0ff4503" width="350" alt="TPI info Pelis"></a>
+</div><br>
+<p align="center">TPI carried out as a team, each member of the team was in charge of developing a specific part of the project, it was my turn to develop the cards.</p><br>
 </td>
 
 </tr>                                                        
