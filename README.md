@@ -101,7 +101,12 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/></a>
  &emsp;
-    <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-gray?style=flat-square&logo=Intellij%20idea"/></a></p>
+    <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-gray?style=flat-square&logo=Intellij%20idea"/></a>
+ &emsp;
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-orange?style=flat-square&logo=Postman&logoColor=white"/></a>
+ &emsp;
+    <a href="#"><img alt="Spira Plan" src="https://img.shields.io/badge/SpiraPlan-yellow?style=flat-square&logo=SpiraPlan&logoColor=white"/></a>
+</p>
    <br/>
 
 
