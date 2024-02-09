@@ -125,7 +125,7 @@ Beyond the fact that we all collaborated on the project, each member had a speci
 <div align="center">
 <a href="https://github.com/grupo6-react/22804-grupo6-infopeli" target="_blank"><img src="https://github.com/Glenda76/Glenda76/assets/72517062/09e7e155-ada0-4b87-9d61-1c87e0ff4503" width="360" alt="TPI info Pelis"/></a>
 </div><br/>
-<p align="center">TPI carried out as a team, each member of the team was in charge of developing a specific part of the project, it was my turn to develop the cards of this proyect.</p><br>
+<p align="center">The E-Movies carried out as a team, each member of the team was in charge of developing a specific part of the project, it was my turn to develop the cards of this proyect.</p><br>
 </td>
 
 </tr>                                                        
